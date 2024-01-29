@@ -1,0 +1,17 @@
+{
+  "name": "knip-repro",
+  "version": "1.0.0",
+  "description": "Knip case reproduction template",
+  "scripts": {
+    "knip": "knip"
+  },
+  "bugs": "https://github.com/webpro/knip/issues",
+  "homepage": "https://knip.dev",
+  "dependencies": {
+    "react-select3": "npm:react-select@3.0.8"
+  },
+  "devDependencies": {
+    "knip": "^4.2.1",
+    "typescript": "^5.3.2"
+  }
+}
